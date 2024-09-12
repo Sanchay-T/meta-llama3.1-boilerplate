@@ -6,9 +6,9 @@
 
 ## Introduction
 
-This boilerplate provides a complete setup for working with Meta's LLaMA 3.1 model, enabling accurate, context-aware multilingual translations. It is designed to make it easy for developers to integrate LLaMA 3.1 into their projects for tasks like translation, sentiment analysis, cultural adaptations, and more.
+This boilerplate provides a complete setup for working with Meta's LLaMA 3.1 model, enabling accurate, context-aware multilingual translations. While the default configuration is optimized for tasks like translation, sentiment analysis, and cultural adaptations, the setup is highly flexible. With minimal adjustments, you can modify the prompt templates to suit any other use case, whether it’s a different AI task or an entirely new application.
 
-With minimal configuration, this boilerplate offers a solid foundation for building advanced translation systems that not only translate text but also respect cultural nuances and long-form coherence. Whether you're a developer, linguist, or someone curious about AI-driven language translation, this setup provides all the tools needed to explore the capabilities of LLaMA 3.1.
+This means you can quickly build an app tailored to your needs, be it translations or any other AI-driven task, by simply updating the prompts and user interface. Whether you're a developer, linguist, or someone curious about AI, this setup provides all the tools necessary to explore the capabilities of LLaMA 3.1 and easily adapt it to your unique requirements.
 
 ## Current Core Capabilities
 
